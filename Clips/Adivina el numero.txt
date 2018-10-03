@@ -1,0 +1,6 @@
+(defglobal ?*adiviname* = 48)
+(bind ?adiviname 48)
+(assert (adivino 0))
+(defrule not-guessed?rule<-(adivino ?number)=>(if (neq ?number ?*adiviname*) then
+(printout t "Adivina el numero" crlf)
+(modify ?rule(adivino (read)))[else(printout t "Correcto felicitaciones" crlf)]))
