@@ -1,0 +1,11 @@
+Tiempo,Temperatura,Humedad,Viento,Jugar
+Sol,Caliente,Alta,Debil,No
+Sol,Caliente,Alta,Fuerte,No
+Cubierto,Caliente,Alta,Debil,Si
+Lluvia,Normal,Alta,Debil,Si
+Lluvia,Frio,Normal,Debil,No
+Lluvia,Frio,Normal,Fuerte,No
+Cubierto,Frio,Normal,Fuerte,Si
+Sol,Normal,Alta,Debil,No
+Sol,Frio,Normal,Debil,Si
+Lluvia,Normal,Normal,Debil,Si

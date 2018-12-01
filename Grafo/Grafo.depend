@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1537934327 source:c:\users\rodrigo\documents\ia\grafo\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<vector>
+	<GL/glut.h>
+	<fstream>
+	"c_nodo.h"
+	"c_graph.h"
+
+976692172 c:\users\rodrigo\desktop\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1537933666 c:\users\rodrigo\documents\ia\grafo\include\c_grafo.h
+	<iostream>
+	<vector>
+	"c_nodo.h"
+
+1537933730 c:\users\rodrigo\documents\ia\grafo\include\c_nodo.h
+	<iostream>
+	<vector>
+
+1537934298 c:\users\rodrigo\documents\ia\grafo\include\c_graph.h
+	<iostream>
+	<vector>
+	<queue>
+	<math.h>
+	"c_nodo.h"
+	"c_profundidad.h"
+	"c_etiqueta.h"
+
+1537933733 c:\users\rodrigo\documents\ia\grafo\include\c_profundidad.h
+	<iostream>
+	<vector>
+
+1537933643 c:\users\rodrigo\documents\ia\grafo\include\c_etiqueta.h
+	<iostream>
+
